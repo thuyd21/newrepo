@@ -1,0 +1,4 @@
+# text adventure game 
+# rules: 
+# 
+#
