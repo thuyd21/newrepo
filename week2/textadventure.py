@@ -1,6 +1,6 @@
 # text adventure game 
 
-# first of all what is this startgame() = is a function call
+# first of all what is this startgame() = it's a function call
 #
 
 name = input('Please enter you name:')
