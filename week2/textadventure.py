@@ -32,9 +32,10 @@ def startgame():
             # added .lower() to make it case-insensitive.
             if restart.lower() == "yes":
                 print("\nRestarting the game...")
-            else: 
+                continue
+            elif restart.lower() != "yes":
                 print("BYE BYE.")
-            continue
+            break
         #continue - the true program
         elif choice == "3":
             print("\nQuitting the game...")
