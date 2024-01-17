@@ -13,7 +13,7 @@ noun2 = input("enter noun: ")
 #"Hey! Welcome to my ____noun___. Here, we __verb_,about ___noun2___.
 madlib = f"Hey!,{name}, Welcome to my {noun}. Here, we love to {verb} about {noun2}."
 
-
+# using f-strings: print(f'{i}: {message}')
 print(madlib)
 
     
